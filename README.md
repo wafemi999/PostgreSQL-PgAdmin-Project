@@ -80,11 +80,7 @@ These fields are derived to provide information about the date of the bill.
 ![create Production Db](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/createDb.JPG)
 ![upload sql](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/upload%20dataset.JPG)
 ![verify dataset](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/desribe%20dataset.JPG)
-
-
-
-
-
+![Avg_billing_per_customer](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/assets/36579635/65bb49ed-1520-40d6-904e-c1d493ac78c9)
 
 ## Requirements.:
 
