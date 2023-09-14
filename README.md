@@ -1,4 +1,4 @@
-![image](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/assets/36579635/42f6d862-6f35-4c8f-bddc-bad3d01200c0)# PostgreSQL-PgAdmin-Project
+# PostgreSQL-PgAdmin-Project
 Populating a Data Warehouse using PostgreSQL.
 
 
@@ -11,7 +11,7 @@ The database  used in this lab. contains the following tables:
 
 A cloud service provider has provided us with their billing data. This file contains billing data from the past 10 years. We need to design a data warehouse to support insightful queries on this data.
 
-# file Description
+# File Description
 
 This document describes the fields of the database table, including their names and details.
 
