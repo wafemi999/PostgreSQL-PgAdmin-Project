@@ -76,6 +76,7 @@ These fields are derived to provide information about the date of the bill.
 * schema:
 
 ![Schema](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/star-schema.JPG)
+
 []()
 []()
 []()
