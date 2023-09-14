@@ -74,21 +74,20 @@ These fields are derived to provide information about the date of the bill.
 # Output
 
 * schema:
-
+![Pgadmin login](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/pgadminlogin.JPG)
 ![Schema](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/star-schema.JPG)
 
-[]()
-[]()
-[]()
-
-Create production-related databases and tables in a PostgreSQL instance.
-Populate the production data warehouse by loading the tables from scripts.
+![create Production Db](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/createDb.JPG)
+![upload sql](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/upload%20dataset.JPG)
+![verify dataset](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/desribe%20dataset.JPG)
 
 
 
 
-## Requirements, you will need the following:
+
+
+## Requirements.:
 
 * A PostgreSQL instance running on your computer.
 * The pgAdmin graphical user interface tool.
-* The scripts already already contains the data for the DimCustomer, DimMonth, and FactBilling tables.
+* The scripts in the FILES foloder already contains the data for  DimCustomer, DimMonth, and FactBilling tables.
