@@ -3,7 +3,7 @@ Populating a Data Warehouse using PostgreSQL.
 
 
 ## Database:
-The database  used in this lab. contains the following tables:
+The database used in this lab. Contains the following tables:
 
 * DimCustomer
 * DimMonth
