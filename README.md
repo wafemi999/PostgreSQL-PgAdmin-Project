@@ -74,6 +74,7 @@ These fields are derived to provide information about the date of the bill.
 # Output
 
 * schema:
+  
 ![Pgadmin login](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/pgadminlogin.JPG)
 ![Schema](https://github.com/wafemi999/PostgreSQL-PgAdmin-Project/blob/main/SC/star-schema.JPG)
 
